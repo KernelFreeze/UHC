@@ -1,0 +1,53 @@
+name: UHC
+version: 1.0
+author: KernelFreeze
+main: me.kernelfreeze.uhc.UHC
+
+commands:
+  border:
+    aliases: [bordershrink, shrinkborder]
+  bestkillers:
+    aliases: [kt, killtop, kills]
+  spectatorchat:
+    aliases: [specc, specchat, spc]
+  rescatter:
+    aliases: [rs]
+  extrainventory:
+    aliases: [extrainv, ei]
+  backpack:
+    aliases: [bp, teaminv, teaminventory, backpacks]
+  revive:
+    aliases: [bringback, addalive]
+  createuhc:
+    aliases: [recreatemap, regenerate, newmap, newworld, recreateworld]
+  moderator:
+    aliases: [mod, setmod]
+  host:
+  health:
+    aliases: [h]
+  helpop:
+  killcount:
+    aliases: [kc]
+  list:
+    aliases: [who, staff, online]
+  whitelist:
+  respawn:
+  startmatch:
+    aliases: [startuhc]
+  finishmatch:
+    aliases: [stopuhc]
+  spectator:
+  stats:
+    aliases: [statistics]
+  team:
+    aliases: [teams]
+  sendcoords:
+    aliases: [sc, sendcoords, pmcoords]
+  teamchat:
+    aliases: [tc]
+  teamlist:
+    aliases: [listteam, tl]
+  wl:
+  config:
+  scenario:
+    aliases: [scenarios, explain]
